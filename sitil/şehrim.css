@@ -1,0 +1,125 @@
+.kutu{
+    position: static;
+    width: 100px;
+    padding: 500px;
+    border: 1px solid darkturquoise;
+    margin: auto;
+    border: none;
+    background: none;
+    
+    
+    
+    
+}
+.kutu2{
+    position: relative;
+    width: 1078px;
+    padding: 10px;
+    border: 1px solid darkturquoise;
+    margin: 100px;
+    top: -600px;
+    right: 600px;
+    position: relative;
+    display: flex;
+    bottom: 500px;
+    justify-content: space-between;
+    gap: 100px;
+    background-color: black;
+    
+}
+.but{
+    background-color: black;
+}
+button{
+    position: relative;
+    font-size: 25px;
+    box-sizing: none;
+    background-color: black;
+    border: none;
+    color: grey;
+}
+body{
+    background-color: darkturquoise;
+    background-image: url("resim/şehrim.jpg");
+    background-repeat: no-repeat;
+}
+
+#tarih{
+   
+    position: relative;
+    left: -500px;
+    top: -700px;
+    backface-visibility: hidden;
+    border: none;
+   display: none;
+   z-index: auto;
+   background: none;
+   
+   
+   
+   
+}
+#turist{
+    position: relative;
+    left: -500px;
+    top: -700px;
+    display: none  ;
+    background-color: darkturquoise;
+    border: none;
+    z-index: auto;
+   background: none;
+}
+#başarı{
+    position: relative;
+    display: none;
+    background-color: darkturquoise;
+    z-index: auto;
+    border: none;
+    background: none;
+}
+#gök{
+    position: relative;
+    z-index: auto;
+    left: -500px;
+    top: -1950px;
+    width: 1100px;
+    height: 400px;
+
+}
+#pelikan{
+    position: relative;
+    z-index: auto;
+    left: -500px;
+    top: -1820px;
+    width: 1100px;
+    height: 400px;
+    border: none;
+
+}
+#başarı{
+    position: relative;
+    left: -500px;
+    top: -700px;
+}
+#logo{
+    z-index: auto;
+    position: relative;
+    top: -2700px;
+    right: -900px;
+    display: none;
+    
+}
+#demir{
+    z-index: auto;
+    position: relative;
+    top: -2500px;
+    right: -700px;
+    display: none;
+
+}
+#a{
+    position: relative;
+    left: 380px;
+    color: brown;
+}
+  

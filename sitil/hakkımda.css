@@ -1,0 +1,152 @@
+.kutu{
+    position: static;
+    width: 100px;
+    padding: 500px;
+    border: 1px solid darkturquoise;
+    margin: auto;
+    border: none;
+    background: none;
+    
+    
+    
+    
+}
+.kutu2{
+    position: relative;
+    width: 1078px;
+    padding: 10px;
+    border: 1px solid darkturquoise;
+    margin: 100px;
+    top: -600px;
+    right: 600px;
+    position: relative;
+    display: flex;
+    bottom: 500px;
+    justify-content: space-between;
+    gap: 100px;
+    background-color: black;
+}
+.but{
+    background-color: black;
+}
+button{
+    position: relative;
+    font-size: 25px;
+    box-sizing: none;
+    background-color: black;
+    border: none;
+    color: grey;
+}
+body{
+    background-color: darkturquoise;
+    background-image: url("resim/hakkımda.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#giriş{
+    position: relative;
+    left: 633px;
+    color: brown;
+
+}
+#hakkımda{
+    background: none;
+    position: relative;
+    display: none;
+    left: -500px;
+    top: -700px;
+    border: none;
+}
+#üni{
+    position: relative;
+    height: 500px;
+    width: 1100px;
+    top: -2990px;
+    left: -500px;
+    display: none;
+}
+#hb{
+    position: relative;
+    top: -2850px;
+    width: 1100px;
+    height: 500px;
+    left: -500px;
+    display: none;
+}
+#hobilerim{
+    
+    position: relative;
+    left: -500px;
+    top: -700px;
+    background: none;
+    border: none;
+    display: none;
+}
+
+#su{
+    position: relative;
+    height: 500px;
+    width: 1100px;
+    top: -2990px;
+    left: -500px;
+    display: none;
+}
+
+#pop{
+    position: relative;
+    top: -2850px;
+    width: 1100px;
+    height: 500px;
+    left: -500px;
+    display: none;
+}
+
+#ogr{
+    position: relative;
+    top: -3135px;
+    left: -300px;
+    width: 300px;
+    height: 400px;
+    display: none;
+}
+
+#hp{
+    position: relative;
+    top: -2730px;
+    width: 300px;
+    height: 400px;
+    display: none;
+}
+#daf{
+    
+    position: relative;
+    left: -500px;
+    top: -700px;
+    background: none;
+    border: none;
+    display: none;
+    
+
+}
+#Vf{
+    z-index: auto;
+    position: relative;
+    left: -300px;
+    bottom: 2950px;
+    display: none;
+}
+#bb{
+    z-index: auto;
+    position: relative;
+    left: -300px;
+    bottom: 2850px;
+    display: none;
+}
+#cg{
+    z-index: auto;
+    position: relative;
+    left: -300px;
+    bottom: 2700px;
+    display: none;
+}
+  
